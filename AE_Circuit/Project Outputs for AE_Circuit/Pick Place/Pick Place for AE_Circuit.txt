@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+E:\BCI_HW\AE_Circuit\Project Outputs for AE_Circuit\Pick Place\Pick Place for AE_Circuit.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/06/21
+Time:       09:56
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer    Footprint       Center-X(mil) Center-Y(mil) Rotation Description                       
+SB1        "Solder Jumper" TopLayer SJB_2_0603      98.425        313.937       180      ""                                
+U1         TSZ122          TopLayer TSOP8_(miniSO8) 476.378       322.834       270      "TSZ122-Dual precision amplifier" 
+R3         10K             TopLayer SMD0603-1608    82.945        244.149       360      "Resistor SMD"                    
+R2         200K            TopLayer SMD0603-1608    390.031       480.370       360      "Resistor SMD"                    
+R1         100R            TopLayer SMD0603-1608    138.063       169.676       360      "Resistor SMD"                    
+C3         100pF           TopLayer SMD0603-1608    127.386       425.465       90       Capacitor                         
+C2         10nF            TopLayer SMD0603-1608    452.488       169.236       180      Capacitor                         
+C1         100pF           TopLayer SMD0603-1608    228.401       499.732       270      Capacitor                         

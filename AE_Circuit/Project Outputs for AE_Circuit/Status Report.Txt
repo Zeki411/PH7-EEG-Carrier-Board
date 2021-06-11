@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [AE_Circuit.PcbDoc]
+   Generated File[Pick Place for AE_Circuit.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:56:29 AM On 6/10/2021

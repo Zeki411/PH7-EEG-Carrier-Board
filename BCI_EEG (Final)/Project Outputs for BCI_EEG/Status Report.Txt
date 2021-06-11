@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [BCI_EEG.pcbdoc]
+   Generated File[Pick Place for BCI_EEG.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:09:51 AM On 6/10/2021

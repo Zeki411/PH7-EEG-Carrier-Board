@@ -1,0 +1,531 @@
+*************************************************************
+FileName = BCI_EEG.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top 3D Body
+      File : BCI_EEG.GM14
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : BCI_EEG.GM7
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D16
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : BCI_EEG.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : BCI_EEG.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D26
+    D27
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BCI_EEG.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D21
+    D22
+    D23
+    D24
+    D26
+    D27
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BCI_EEG.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : BCI_EEG.G2
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Module
+      File : BCI_EEG.GM13
+
+    Adding Layer      : Module
+
+
+Used DCodes :
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BCI_EEG.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BCI_EEG.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D15
+    D16
+    D17
+    D18
+    D110
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : BCI_EEG.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BCI_EEG.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D21
+    D22
+    D23
+    D24
+    D26
+    D27
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : BCI_EEG.GM5
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : BCI_EEG.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : BCI_EEG.GM4
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D16
+    D18
+    D110
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BCI_EEG.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : BCI_EEG.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D115
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : BCI_EEG.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : BCI_EEG.GM1
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : BCI_EEG.GM15
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Glue Points
+      File : BCI_EEG.GM9
+
+    Adding Layer      : Top Glue Points
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BCI_EEG.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D35
+    D36
+    D37
+    D38
+    D40
+    D41
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : BCI_EEG.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D59
+    D60
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+

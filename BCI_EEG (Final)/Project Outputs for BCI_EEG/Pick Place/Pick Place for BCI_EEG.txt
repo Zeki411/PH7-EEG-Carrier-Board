@@ -1,0 +1,171 @@
+Altium Designer Pick and Place Locations
+E:\BCI_HW\BCI_EEG (Final)\Project Outputs for BCI_EEG\Pick Place\Pick Place for BCI_EEG.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/06/21
+Time:       10:09
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer       Footprint                   Center-X(mil) Center-Y(mil) Rotation Description                                           
+U3         OPA376AIDBVT          BottomLayer SOT23-5                     972.441       614.173       360      "IC OPAMP GP 1 CIRCUIT SOT23-5"                       
+U2         OPA376AIDBVT          BottomLayer SOT23-5                     1988.189      610.236       180      "IC OPAMP GP 1 CIRCUIT SOT23-5"                       
+U11        TPD4E1B06DRLR         BottomLayer SOT-563                     2204.899      464.568       360      "TVS DIODE 5.5VWM 14.5VC 6SOT"                        
+U10        TPD4E1B06DRLR         BottomLayer SOT-563                     665.354       291.339       180      "TVS DIODE 5.5VWM 14.5VC 6SOT"                        
+U9         TPD4E1B06DRLR         BottomLayer SOT-563                     1503.937      291.339       180      "TVS DIODE 5.5VWM 14.5VC 6SOT"                        
+U8         TPD4E1B06DRLR         BottomLayer SOT-563                     2147.637      291.339       180      "TVS DIODE 5.5VWM 14.5VC 6SOT"                        
+U4         ICM-20689             TopLayer    QFN50P400X400X100_HS-25N-NP 437.008       1003.937      180      "IMU ACCEL/GYRO/MAG I2C/SPI 24QFN"                    
+R37        0R                    TopLayer    R1005X04N                   2047.755      570.866       90       RES,0R,JUMPER,62.5MW,0402,SMD                         
+X1         2.0480MHZ             TopLayer    CRYSTAL_3225                1326.930      948.819       90       "XTAL OSC XO 2.0480MHZ HCMOS SMD"                     
+U7         TPS73225DBVR          TopLayer    SOT23-5                     1480.315      700.787       180      "IC REG LINEAR 2.5V 250MA SOT23-5"                    
+U6         TPS60403DBVT          TopLayer    SOT23-5                     286.260       411.732       180      "TPS60403 60MA CHARGE PUMP VOLTAG"                    
+U5         TPS72325DBVR          TopLayer    SOT23-5                     574.803       263.780       360      "IC REG LIN -2.5V 200MA SOT23-5"                      
+U1         ADS1299               BottomLayer PQFN-64                     1295.276      908.602       90       "IC AFE 8 CHAN 24BIT 64TQFP"                          
+SW2        FSMRA4JH04            BottomLayer 1-1825027-1                 2328.740      1292.990      0        "SWITCH TACTILE SPST-NO 0.05A 24V"                    
+SW1        FSMRA4JH04            BottomLayer 1-1825027-1                 1949.210      1292.990      0        "SWITCH TACTILE SPST-NO 0.05A 24V"                    
+SK1        "MICRO SD CARD"       BottomLayer 114-00841-68                287.402       606.299       90       "CONN MICRO SD CARD PUSH-PULL R/A"                    
+SB13       "Solder Jump"         BottomLayer SJB_0603                    2347.682      964.290       270      "Solder Bridge Jumper 0603"                           
+SB12       "Solder Jump"         BottomLayer SJB_0603                    2410.575      963.881       270      "Solder Bridge Jumper 0603"                           
+SB11       "Solder Jump"         TopLayer    SJB_0603                    1228.347      935.039       90       "Solder Bridge Jumper 0603"                           
+SB10       "Solder Jump"         TopLayer    SJB_0603                    1324.961      1090.551      180      "Solder Bridge Jumper 0603"                           
+SB9        "Solder Jump"         TopLayer    SJB_0603                    1994.606      496.063       180      "Solder Bridge Jumper 0603"                           
+SB8        "Solder Jump"         TopLayer    SJB_0603                    1873.071      496.063       360      "Solder Bridge Jumper 0603"                           
+SB7        "Solder Jump"         BottomLayer SJB_0603                    635.827       551.181       180      "Solder Bridge Jumper 0603"                           
+SB6        "Solder Jump"         BottomLayer SJB_0603                    635.827       488.189       180      "Solder Bridge Jumper 0603"                           
+SB5        "Solder Jump"         TopLayer    SJB_0603                    967.378       640.902       270      "Solder Bridge Jumper 0603"                           
+SB4        "Solder Jump"         TopLayer    SJB_0603                    904.386       640.903       270      "Solder Bridge Jumper 0603"                           
+SB3        "Solder Jump"         TopLayer    SJB_0603                    1663.386      846.457       180      "Solder Bridge Jumper 0603"                           
+SB2        "Solder Jump"         BottomLayer SJB_0603                    1999.808      491.000       180      "Solder Bridge Jumper 0603"                           
+SB1        "Solder Jump"         BottomLayer SJB_0603                    1878.783      491.000       360      "Solder Bridge Jumper 0603"                           
+S1         EG1213                BottomLayer SW_EG1213                   1547.244      1374.016      0        "SWITCH SLIDE SPDT 200MA 30V"                         
+R36        2.2kR                 BottomLayer R1005X04N                   2047.244      389.764       360      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R35        2.2kR                 BottomLayer R1005X04N                   562.992       409.450       270      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R34        2.2kR                 BottomLayer R1005X04N                   1822.834      389.764       360      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R33        2.2kR                 BottomLayer R1005X04N                   1685.039      389.764       360      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R32        2.2kR                 BottomLayer R1005X04N                   1554.961      389.764       360      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R31        2.2kR                 BottomLayer R1005X04N                   1424.884      389.764       360      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R30        2.2kR                 BottomLayer R1005X04N                   1294.806      389.764       360      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R29        2.2kR                 BottomLayer R1005X04N                   1164.729      389.764       360      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R28        2.2kR                 BottomLayer R1005X04N                   1034.651      389.764       180      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R27        2.2kR                 BottomLayer R1005X04N                   904.574       389.764       180      RES,2.2KR,1%,62.5MW,0402,SMD                          
+R26        1kR                   TopLayer    R1005X04N                   2649.606      448.819       270      RES,1KR,5%,62.5MW,0402,SMD                            
+R25        1kR                   BottomLayer R1005X04N                   2486.850      1104.009      360      RES,1KR,5%,62.5MW,0402,SMD                            
+R24        1kR                   TopLayer    R1005X04N                   2610.236      448.819       270      RES,1KR,5%,62.5MW,0402,SMD                            
+R23        1kR                   BottomLayer R1005X04N                   2486.849      1059.055      360      RES,1KR,5%,62.5MW,0402,SMD                            
+R22        1kR                   TopLayer    R1005X04N                   2570.866      448.819       270      RES,1KR,5%,62.5MW,0402,SMD                            
+R21        10kR                  BottomLayer R1005X04N                   2330.709      1165.354      180      RES,10KR,1%,62.5MW,0402,SMD                           
+R20        10kR                  BottomLayer R1005X04N                   1956.692      1165.354      180      RES,10KR,1%,62.5MW,0402,SMD                           
+R19        180R                  BottomLayer R1005X04N                   1870.079      803.149       360      RES,180R,1%,200MW,0402,SMD                            
+R18        0R                    TopLayer    R1005X04N                   1149.606      1106.299      180      RES,0R,JUMPER,62.5MW,0402,SMD                         
+R17        1MR                   BottomLayer R1005X04N                   117.126       191.437       180      RES,1MR,1%,62.5MW,0402,SMD                            
+R16        10kR                  TopLayer    R1005X04N                   448.819       1169.292      270      RES,10KR,1%,62.5MW,0402,SMD                           
+R15        10kR                  TopLayer    R1005X04N                   370.079       1169.291      270      RES,10KR,1%,62.5MW,0402,SMD                           
+R14        10kR                  TopLayer    R1005X04N                   425.197       822.835       90       RES,10KR,1%,62.5MW,0402,SMD                           
+R13        10kR                  TopLayer    R1005X04N                   464.567       822.835       90       RES,10KR,1%,62.5MW,0402,SMD                           
+R12        10kR                  TopLayer    R1005X04N                   503.937       822.835       90       RES,10KR,1%,62.5MW,0402,SMD                           
+R11        392kR                 TopLayer    R1005X04N                   2005.274      608.938       270      RES,392KR,1%,62.5MW,0402,SMD                          
+R10        0R                    TopLayer    R1005X04N                   968.504       1129.921      270      RES,0R,JUMPER,62.5MW,0402,SMD                         
+R9         0R                    TopLayer    R1005X04N                   1984.763      551.181       180      RES,0R,JUMPER,62.5MW,0402,SMD                         
+R8         0R                    TopLayer    R1005X04N                   924.071       737.359       0        RES,0R,JUMPER,62.5MW,0402,SMD                         
+R7         0R                    BottomLayer R1005X04N                   681.102       625.984       360      RES,0R,JUMPER,62.5MW,0402,SMD                         
+R6         0R                    TopLayer    R1005X04N                   1019.685      629.921       270      RES,0R,JUMPER,62.5MW,0402,SMD                         
+R5         10kR                  TopLayer    R1005X04N                   1145.669      1188.976      180      RES,10KR,1%,62.5MW,0402,SMD                           
+R4         2MR                   BottomLayer R1005X04N                   2122.394      519.685       180      RES,2MR,1%,62.5MW,0402,SMD                            
+R3         0R                    BottomLayer R1005X04N                   1858.267      598.425       180      RES,0R,JUMPER,62.5MW,0402,SMD                         
+R2         2MR                   BottomLayer R1005X04N                   2122.394      566.929       360      RES,2MR,1%,62.5MW,0402,SMD                            
+R1         10kR                  TopLayer    R1005X04N                   1514.672      997.520       180      RES,10KR,1%,62.5MW,0402,SMD                           
+Q1         MMBTA06-7-F           BottomLayer SOT95P245X110-3N            1850.394      909.449       180      "BJT NPN,80V,500MA,SOT23-3,SMD"                       
+L3         3.3uH                 TopLayer    L1608X06N                   1236.220      669.291       180      IND,3.3UH,20%,450MA,0.027R,0603,SMD                   
+L2         3.3uH                 TopLayer    L1608X06N                   397.638       295.276       270      IND,3.3UH,20%,450MA,0.027R,0603,SMD                   
+L1         3.3uH                 TopLayer    L1608X06N                   720.473       196.850       360      IND,3.3UH,20%,450MA,0.027R,0603,SMD                   
+J14        "Header 2"            BottomLayer HDR1x2                      2421.260      295.276       270      ""                                                    
+J13        "Header 2"            BottomLayer HDR1x2                      70.866        988.189       180      ""                                                    
+J12        SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   2556.520      748.919       270      "CONN HEADER SMD R/A 3POS 1MM"                        
+J11        SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   361.221       122.047       180      "CONN HEADER SMD R/A 3POS 1MM"                        
+J10        SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   2556.520      488.190       270      "CONN HEADER SMD R/A 3POS 1MM"                        
+J9         SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   2333.245      122.047       180      "CONN HEADER SMD R/A 3POS 1MM"                        
+J8         SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   2051.528      122.047       180      "CONN HEADER SMD R/A 3POS 1MM"                        
+J7         SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   1769.810      122.047       180      "CONN HEADER SMD R/A 3POS 1MM"                        
+J6         SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   1488.092      122.047       180      "CONN HEADER SMD R/A 3POS 1MM"                        
+J5         SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   1206.374      122.047       180      "CONN HEADER SMD R/A 3POS 1MM"                        
+J4         SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   924.657       122.047       180      "CONN HEADER SMD R/A 3POS 1MM"                        
+J3         SM03B-SRSS-TB(LF)(SN) BottomLayer JST_SM03B-SRSS-TB(LF)(SN)   642.939       122.047       180      "CONN HEADER SMD R/A 3POS 1MM"                        
+J2         HDR10x2               BottomLayer FTSH-110-01-L-DV-007-P-TR   500.000       1185.433      360      "CONN HEADER SMD 20POS 1.27MM"                        
+J1         PH1-11-UA             BottomLayer HDR1x11_-_2.54mm            741.732       1382.775      270      "CONN HEADER VERT 11POS 2.54MM"                       
+F9         "600 Ohms @ 100MHz"   TopLayer    F1005X04N                   1514.672      1118.156      180      "FERRITE BEAD,600 OHMS @ 100MHZ,0.55R,300MA,0402,SMD" 
+F8         "47 Ohms @ 100MHz"    BottomLayer F2012X06N                   2200.787      970.472       90       "FERRITE BEAD,47 OHMS @ 100MHZ,0.05R,1A,0805,SMD"     
+F7         "120 Ohms @ 100MHz"   TopLayer    F3216X07N                   533.465       472.441       270      "FERRITE BEAD,120 OHMS @ 100MHZ,0.0016R,3A,1206,SMD"  
+F6         1.00mm                BottomLayer FIDUCIAL10-30               -1082.677     -1082.677     180      FIDUCIAL,1.00mm,3.00mm                                
+F5         1.00mm                TopLayer    FIDUCIAL10-30               -1082.677     -1082.677     0        FIDUCIAL,1.00mm,3.00mm                                
+F4         1.00mm                BottomLayer FIDUCIAL10-30               -1082.677     -1082.677     180      FIDUCIAL,1.00mm,3.00mm                                
+F3         1.00mm                BottomLayer FIDUCIAL10-30               -1082.677     -1082.677     180      FIDUCIAL,1.00mm,3.00mm                                
+F2         1.00mm                TopLayer    FIDUCIAL10-30               -1082.677     -1082.677     0        FIDUCIAL,1.00mm,3.00mm                                
+F1         1.00mm                TopLayer    FIDUCIAL10-30               -1082.677     -1082.677     0        FIDUCIAL,1.00mm,3.00mm                                
+D4         "LED BLUE"            BottomLayer LED0603                     2602.423      1236.220      360      "LED BLUE CLEAR CHIP SMD"                             
+D3         "LED BLUE"            BottomLayer LED0603                     2602.423      1059.055      360      "LED BLUE CLEAR CHIP SMD"                             
+D2         RGB                   BottomLayer LED_3528_PLCC4_RGB          2559.278      952.756       180      "3528 PLCC4 RGB"                                      
+D1         BAV21W-7-F            BottomLayer SOD123                      2051.181      807.087       180      DIODE,200V,200MA,1-CH,ID,SOD-123,SMD                  
+CN2        DF40C-80DS-0.4V(51)   TopLayer    DF40C-80DS-0.4V(51)         2444.882      720.473       270      "CONN RCPT 80POS SMD GOLD"                            
+CN1        DF40C-80DS-0.4V(51)   TopLayer    DF40C-80DS-0.4V(51)         743.898       720.472       90       "CONN RCPT 80POS SMD GOLD"                            
+C58        0.1uF                 BottomLayer C1005X04N                   2047.244      433.071       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C57        0.1uF                 BottomLayer C1005X04N                   606.299       409.449       90       "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C56        0.1uF                 BottomLayer C1005X04N                   1822.835      433.071       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C55        0.1uF                 BottomLayer C1005X04N                   1685.039      433.071       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C54        0.1uF                 BottomLayer C1005X04N                   1554.962      433.071       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C53        0.1uF                 BottomLayer C1005X04N                   1424.884      433.071       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C52        0.1uF                 BottomLayer C1005X04N                   1294.807      433.071       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C51        0.1uF                 BottomLayer C1005X04N                   1164.729      433.071       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C50        0.1uF                 BottomLayer C1005X04N                   1034.651      433.071       360      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C49        0.1uF                 BottomLayer C1005X04N                   904.574       433.071       360      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C48        1uF                   TopLayer    C1005X04N                   610.236       173.229       180      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C47        1uF                   TopLayer    C1005X04N                   1409.448      791.339       180      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C46        1uF                   TopLayer    C1005X04N                   391.732       433.071       90       "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C45        10uF                  TopLayer    C1608X06N                   446.850       444.882       270      "CAP CER,10UF,20%,10V,X5R,0603,SMD"                   
+C44        10uF                  TopLayer    C1608X06N                   1236.220      728.346       180      "CAP CER,10UF,20%,10V,X5R,0603,SMD"                   
+C43        2.2uF                 TopLayer    C1005X04N                   1316.036      681.102       270      "CAP CER,2.2UF,20%,25V,X5R,0402,SMD"                  
+C42        10uF                  TopLayer    C1608X06N                   1367.217      692.913       270      "CAP CER,10UF,20%,10V,X5R,0603,SMD"                   
+C41        1uF                   TopLayer    C1005X04N                   1586.614      681.102       90       "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C40        10uF                  TopLayer    C1608X06N                   460.630       295.275       270      "CAP CER,10UF,20%,10V,X5R,0603,SMD"                   
+C39        1uF                   TopLayer    C1005X04N                   326.772       318.898       180      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C38        10uF                  TopLayer    C1608X06N                   307.087       267.716       360      "CAP CER,10UF,20%,10V,X5R,0603,SMD"                   
+C37        10uF                  TopLayer    C1608X06N                   811.023       228.347       270      "CAP CER,10UF,20%,10V,X5R,0603,SMD"                   
+C36        2.2uF                 TopLayer    C1005X04N                   708.662       248.031       180      "CAP CER,2.2UF,20%,25V,X5R,0402,SMD"                  
+C35        10uF                  TopLayer    C1608X06N                   720.472       299.213       180      "CAP CER,10UF,20%,10V,X5R,0603,SMD"                   
+C34        1uF                   TopLayer    C1005X04N                   460.630       188.976       270      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C33        1uF                   TopLayer    C1005X04N                   318.898       503.937       360      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C32        0.1uF                 BottomLayer C1005X04N                   2330.709      1208.661      360      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C31        0.1uF                 BottomLayer C1005X04N                   1956.692      1208.661      360      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C30        1nF                   BottomLayer C1005X04N                   117.126       229.331       180      "CAP CER,1NF,10%,50V,X7R,0402,SMD"                    
+C29        2.2uF                 TopLayer    C1005X04N                   283.464       1015.748      360      "CAP CER,2.2UF,20%,25V,X5R,0402,SMD"                  
+C28        0.1uF                 TopLayer    C1005X04N                   283.464       1055.119      180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C27        10nF                  TopLayer    C1005X04N                   488.189       1169.291      270      "CAP CER,10NF,10%,50V,X7R,0402,SMD"                   
+C26        0.47uF                TopLayer    C1005X04N                   409.449       1169.292      90       "CAP CER,0.47UF,10%,25V,X5R,0402,SMD"                 
+C25        0.1uF                 TopLayer    C1005X04N                   56.596        582.677       270      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C24        1uF                   TopLayer    C1005X04N                   98.425        582.677       90       "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C23        1uF                   TopLayer    C1005X04N                   1315.119      1043.307      180      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C22        10nF                  TopLayer    C1005X04N                   1961.141      608.937       270      "CAP CER,10NF,10%,50V,X7R,0402,SMD"                   
+C21        0.1uF                 BottomLayer C1005X04N                   1698.865      814.626       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C20        1uF                   BottomLayer C1005X04N                   1679.744      872.001       270      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C19        100uF                 BottomLayer C2012X06N                   1696.850      1074.803      180      "CAP CER,100UF,20%,6.3V,X5R,0805,SMD"                 
+C18        1uF                   BottomLayer C1005X04N                   1698.865      1015.748      180      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C17        0.1uF                 TopLayer    C1005X04N                   1191.261      821.476       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C16        0.1uF                 BottomLayer C1005X04N                   1719.114      872.001       90       "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C15        0.1uF                 TopLayer    C1005X04N                   1191.261      860.846       180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C14        1uF                   TopLayer    C1005X04N                   1191.260      779.626       360      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C13        1uF                   BottomLayer C1005X04N                   939.023       967.146       360      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C12        1uF                   BottomLayer C1005X04N                   1718.550      955.335       90       "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C11        0.1uF                 BottomLayer C1005X04N                   1679.180      955.335       270      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C10        1uF                   BottomLayer C1005X04N                   939.023       1093.130      180      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C9         1uF                   BottomLayer C1005X04N                   834.646       614.173       360      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C8         100uF                 BottomLayer C2012X06N                   935.086       1030.138      180      "CAP CER,100UF,20%,6.3V,X5R,0805,SMD"                 
+C7         0.1uF                 TopLayer    C1005X04N                   1514.672      1078.740      180      "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C6         1uF                   TopLayer    C1005X04N                   1514.672      1039.370      0        "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C5         10uF                  BottomLayer C1608X06N                   931.149       888.405       90       "CAP CER,10UF,20%,10V,X5R,0603,SMD"                   
+C4         0.1uF                 BottomLayer C1005X04N                   986.267       900.217       90       "CAP CER,0.1UF,20%,25V,X5R,0402,SMD"                  
+C3         1uF                   BottomLayer C1005X04N                   1078.740      594.488       270      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C2         1uF                   BottomLayer C1005X04N                   2122.394      610.236       180      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+C1         1uF                   BottomLayer C1005X04N                   1858.268      645.669       360      "CAP CER,1UF,10%,16V,X5R,0402,SMD"                    
+BZ1        CMT-5023S-SMT         BottomLayer CUI_CMT-5023S-SMT           2043.307      958.661       180      "AUDIO MAGNETIC XDCR 2-4V SMD"                        
